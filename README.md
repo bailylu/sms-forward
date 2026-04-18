@@ -31,11 +31,10 @@
 
 ### 1. 下载刷机包
 
-下载包含以下内容的刷机包：
-- `Mico` 刷机工具
-- `xxx.bin` 全量包
-
-> 注意：刷机包请联系设备卖家获取，或从恩山无线论坛等社区下载。
+**百度网盘下载（包含 Mico 工具和 bin 全量包）：**
+> 链接：https://pan.baidu.com/s/19vnluTloPSYZBEACcmS1qw?pwd=s4b3
+> 提取码：s4b3
+> --来自百度网盘超级会员V5
 
 ### 2. 进入9008刷机模式
 
@@ -197,7 +196,7 @@ sms-forward/
 ├── README.md              # 本教程
 ├── sms_forwarder.sh       # 转发脚本（Shell版本）
 ├── sms-forward.service    # systemd服务配置
-└── [bin文件]              # Debian镜像（需自行获取）
+└── [bin文件]              # Debian镜像（需自行从网盘下载）
 ```
 
 ---
